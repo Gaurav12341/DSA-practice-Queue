@@ -7,6 +7,7 @@ struct Queue
     int front;
     int rear;
     int *Q;
+    
 
 };
 
